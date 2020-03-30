@@ -1,7 +1,7 @@
 # Tindev
 Projeto desenvolvido na omnistack 8
 
-Site: https://tindev-front.herokuapp.com/
+Site: https://tindev-front.netlify.com/
 
 ![screenshot](image/tindev.png)
 
